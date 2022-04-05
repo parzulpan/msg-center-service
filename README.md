@@ -1,5 +1,4 @@
-# product-recommendation-system
-product recommendation system.
+# 消息中台服务
 
-## Reference thanks
-* [flink-recommandSystem-demo](https://github.com/CheckChe0803/flink-recommandSystem-demo)
+
+## 参考致谢
